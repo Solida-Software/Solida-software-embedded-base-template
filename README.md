@@ -1,0 +1,1 @@
+# Solida-software-embedded-base-template
